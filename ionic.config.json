@@ -1,0 +1,7 @@
+{
+  "name": "bug_ionic_cap_run_ios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
